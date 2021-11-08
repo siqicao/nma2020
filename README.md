@@ -26,5 +26,5 @@ Title: Temporal trajectories of human brain activities correlate with visual dec
 
 # Analysis Script (load_hcp.py)
 #### Yuang Chen @ Peking University
-#### Siqi Cao @ Chineses Academy of Sciences, Institute of Psychology
+#### Siqi Cao @ Institute of Psychology, Chineses Academy of Sciences
 #### Correspondance: caosq@psych.ac.cn
