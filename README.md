@@ -8,7 +8,7 @@ Presented by Yunlong Xu @ NMA2020 (NMA0731_final.pdf)
 Advisor: Ruyuan Zhang @ Shanghai Jiao Tong University
 
 
-Scientific question: Do temporal trajectories of human brain activities support visual decision-making?
+*Scientific question*: Do temporal trajectories of human brain activities support visual decision-making?
 
 Brief scientific background: Previous animal studies have shown that neural population responses fluctuate in a low-dimensional manifold and the temporal trajectories of population responses in this manifold contribute to decisional processes (Michaels, J. A., et al., 2015).
 
@@ -27,4 +27,4 @@ Title: Temporal trajectories of human brain activities correlate with visual dec
 # Analysis Script (load_hcp.py)
 #### Yuang Chen @ Peking University
 #### Siqi Cao @ Chineses Academy of Sciences, Institute of Psychology
-#### Email: caosq@psych.ac.cn
+#### Correspondance: caosq@psych.ac.cn
